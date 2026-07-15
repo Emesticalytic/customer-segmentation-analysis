@@ -12,8 +12,6 @@ How can we group customers into meaningful segments so the business can improve 
 
 ## Project Scope
 
-This project will be built step by step:
-
 1. Project setup
 2. Dataset preparation
 3. Data cleaning and manipulation
@@ -32,5 +30,3 @@ This project will be built step by step:
 Author: Emem A
 July 2026
 
-git push
-```
