@@ -1,8 +1,11 @@
 # Customer Segmentation Analysis
 
-This project is a customer segmentation analysis project for a data analytics and data science portfolio.
+Problem Statement
+Retail and e-commerce businesses collect customer and transaction data, but they may not clearly understand how customer behaviour affects revenue and profitability. Some customers may buy frequently but spend less, while others may buy rarely but generate high revenue or stronger profit margins.
 
-The aim is to understand customer behaviour, revenue value and retention risk using retail transaction data.
+Without customer segmentation, the business may treat every customer the same. This can lead to generic marketing campaigns, wasted promotional spend, poor retention planning, missed revenue opportunities, and weak understanding of which customers are truly valuable.
+
+This project analyses customer purchasing behaviour to understand how recency, frequency, spend, and profit contribution affect business performance. The goal is to segment customers into meaningful groups and use those segments to support better marketing, retention, revenue growth, and profit protection.
 
 ## Business Question
 
